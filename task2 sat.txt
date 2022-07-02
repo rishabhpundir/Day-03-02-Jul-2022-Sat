@@ -1,0 +1,39 @@
+ local variables and global variables in Python
+
+type conversion in Python
+
+What is __init__
+
+lambda function
+
+self in Python
+
+How does break, continue and pass work
+
+What does [::-1} do?
+
+randomize the items of a list in place in Python
+
+python iterators iterables and generators
+
+ generate random numbers in Python
+
+ capitalize the first letter of string
+
+purpose of is, not and in operator
+
+ternary operators = conditional expression is an operation evaluates sumthing based on condition
+
+What does this mean: 
+? And why would we use it?
+
+What are negative indexes and why are they used?
+
+ How to import modules in python?
+
+create an empty class in Python
+
+difference between list and tuples
+
+
+Create a File name abc.txt and write something in it
